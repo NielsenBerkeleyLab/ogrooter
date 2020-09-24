@@ -1,5 +1,5 @@
 # Ogrooter
-Ogrooter calculates the posterior probability distribution of the root position under the outgroup criteria as described in Huelsenbeck <i>et al</i>. (2002). The outgroup rooting method has an independent exponential prior for each branch length. To calculate the posterior probability distribution of the root under the molecular clock see <a href="https://github.com/NielsenBerkeleyLab/rooter">Rooter</a>.
+Ogrooter calculates the posterior probability distribution of the root position under the outgroup criterion as described in Huelsenbeck <i>et al</i>. (2002). The outgroup rooting method has an independent exponential prior for each branch length. To calculate the posterior probability distribution of the root under the molecular clock see <a href="https://github.com/NielsenBerkeleyLab/rooter">Rooter</a>.
 
 Huelsenbeck, J. P., Bollback, J. P., and Levine, A. M. 2002. Inferring  the  root  of  a  phylogenetic  tree. Systematic biology, 51(1): 32–43.
 # Prerequisites
